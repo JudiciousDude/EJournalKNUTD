@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EJournal</string>
+    <string name="loginHint">Логин</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="loginFieldEmpty">Вы не ввели логин</string>
+    <string name="passwordFieldEmpty">Вы не ввели пароль</string>
+    <string name="no_connection">Отсутсвует подключение к интернету</string>
+    <string name="wrongLoginOrPassword">Неверный логин или пароль</string>
+    <string name="loginSuccess">Вход выполнен успешно</string>
+    <string name="loginBtn">Войти</string>
+
+</resources>
